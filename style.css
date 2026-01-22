@@ -1,6 +1,7 @@
 body {
 	background-color: #E63462;
 	font-family: "Comic Sans MS", sans-serif;
+	font-size: 1.2rem;
 	color: #333745;
 }
 
@@ -26,7 +27,6 @@ h1 {
 
 section {
 	width: 100%;
-	justify-content: center;
 }
 
 .title-img {
@@ -39,7 +39,7 @@ section {
 	border-radius: 10px;
 	flex-direction: column;
 	background-color: #EEF5DB;
-	max-width: 800px;
+	max-width: 1000px;
 	margin: auto;
 	padding: 32px 16px 32px 16px;
 }
